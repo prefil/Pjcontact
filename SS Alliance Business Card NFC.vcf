@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+
+N:J;Prateek;;;
+FN:Prateek J
+
+ORG:Strategic Sourcing Alliance 
+TITLE:Founder
+
+TEL;TYPE=Mobile:+918800305306
+EMAIL;TYPE=E-Mail:PJ@ss-alliance.com
+
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/prateekjaiin
+IMPP;X-SERVICE-TYPE=WeChat:wechat:Prateek@0156
+
+URL;TYPE=Website:www.ss-alliance.com
+ADR;TYPE=SSA Corporate Office:;;44, 2nd Floor, Innov8, Regal Building, Connaught Place, New Delhi - 110001;;;;
+
+item2.NOTE:Ultra Engineered Polymer Compounds & Composites Solutions & Fuel Cell Components
+
+END:VCARD

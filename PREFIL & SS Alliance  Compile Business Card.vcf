@@ -1,0 +1,24 @@
+BEGIN:VCARD
+VERSION:3.0
+
+N:J;Prateek;;;
+FN:Prateek J
+
+TITLE:Founder | Director
+
+TEL;TYPE=Mobile:+918800305306
+
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/prateekjaiin
+IMPP;X-SERVICE-TYPE=WeChat:wechat:Prateek@0156
+
+URL;TYPE=SSA Website:https://www.ss-alliance.com
+EMAIL;TYPE=SSA E-Mail:PJ@ss-alliance.com
+ADR;TYPE=SSA Corporate Office:;;44, 2nd Floor, Innov8, Regal Building, Connaught Place, New Delhi - 110001;;;;
+
+URL;TYPE=PREFIL Website:https://www.prefil.in
+EMAIL;TYPE=PREFIL E-Mail:Prateek@prefil.in
+ADR;TYPE=PREFIL Manufacturing Unit:;;Plot No. 259, Sector - 6, IMT Manesar (Gurugram) Haryana, India - 122052;;;;
+
+item2.NOTE:PREFIL - Manufacturing Polymers For Your Plastics Since 1992  |  SSA - Ultra Engineered Polymer Compounds & Composites Solutions & Fuel Cell Components
+
+END:VCARD
